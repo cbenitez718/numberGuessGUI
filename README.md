@@ -1,3 +1,3 @@
 # numberGuessGUI
-GUI guessing app game where the user has to guess between the numbers from 1 to 10
+GUI guessing game where the user has to guess numbers between 1 and 10 against the app
 **NOTE: The module breezpythongui.py MUST be in the same directory as this file for the app to run correctly!
